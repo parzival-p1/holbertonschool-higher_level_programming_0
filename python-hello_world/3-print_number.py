@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 98
-"%s battery street" % (number)
+f"{number}.battery street" 
