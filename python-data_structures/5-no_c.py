@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def print_reversed_list_integer(my_list=[]):
+def no_c(my_string):
     new_string = ""
     for c in my_string:
         if c != 'c' and c != 'C':
