@@ -1,6 +1,13 @@
 <h1 align="center">Python 🐍 -  Exceptions</h1>
 
 ### Recommended Links 🔗
+- [Exceptions in Python](https://www.youtube.com/watch?v=nlCKrKGHSSk)
+
+- [Python Exception Handling (Use Try..Except to Catch Errors!)](https://www.youtube.com/watch?v=brICUKrzVR0)
+
+- [Excepciones I](https://www.youtube.com/watch?v=2MaAs7XU2T0)
+
+- [Curso de Python. Excepciones II](https://www.youtube.com/watch?v=HH3c6ZBvSx8)
 
 ### Learning Objectives 🎯
 - Why Python programming is awesome
