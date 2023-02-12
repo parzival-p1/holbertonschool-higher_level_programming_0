@@ -7,7 +7,7 @@
 
 - [Excepciones I](https://www.youtube.com/watch?v=2MaAs7XU2T0)
 
-- [Curso de Python. Excepciones II](https://www.youtube.com/watch?v=HH3c6ZBvSx8)
+- [Excepciones II](https://www.youtube.com/watch?v=HH3c6ZBvSx8)
 
 ### Learning Objectives 🎯
 - Why Python programming is awesome
