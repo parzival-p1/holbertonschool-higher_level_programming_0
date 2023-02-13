@@ -3,8 +3,9 @@ def safe_print_division(a, b):
     """ divides 2 integers and prints the result """
     try:
         div = a / b
-    except (TypeError, ZeroDivisionError):
+        print("Inside Result: {:.1f}".format(div))
+    except ZeroDivisionError:
         div = None
-    finally:
         print("Inside Result: {}".format(div))
-    return div
+    finally:
+        return div
