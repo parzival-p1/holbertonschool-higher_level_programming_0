@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 class Square():
-    '''
-        Defining a Square
-    '''
+'''
+Square class definition
+'''
 
     def __init__(self, size=0, position=(0, 0)):
         '''Initialization of instance attributes
