@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" 
+"""
 Square class definition
 """
 
@@ -11,7 +11,7 @@ class Square():
         '''Initialization of instance attributes
             Args:
                 size (int): Zero or positve number.
-                position: Must be a tuole of 2 positive ints			    
+                position: Must be a tuole of 2 positive ints
         '''
         self.size = size
         self.position = position
