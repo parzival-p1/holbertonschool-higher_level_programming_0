@@ -80,6 +80,7 @@ Reminder: ``size`` is a private attribute. We did that to make sure we control t
 
 __5. Printing a square__
 Write a class ``Square`` that defines a square by: (based on ``4-square.py``)
+
 	- Private instance attribute: ``size``:
 		- property ``def size(self):`` to retrieve it
 		- property setter ``def size(self, value):`` to set it:
@@ -91,7 +92,7 @@ Write a class ``Square`` that defines a square by: (based on ``4-square.py``)
 		- if ``size`` is equal to 0, print an empty line
 	- You are not allowed to import any module
 
-6. Coordinates of a square
+__6. Coordinates of a square__
 Write a class Square that defines a square by: (based on 5-square.py)
 	- Private instance attribute: ``size``:
 		- property ``def size(self):`` to retrieve it
