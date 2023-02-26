@@ -2,12 +2,12 @@
 
 ### Recommended Links 🔗
 
-- [8. Object Oriented Programming - MIT __by Dr. Bell__](https://www.youtube.com/watch?v=-DP1i2ZU9gk)
+- [8. Object Oriented Programming - MIT *__by Dr. Bell__*](https://www.youtube.com/watch?v=-DP1i2ZU9gk)
 
-- [Object Oriented Programming __By Bernd Klein.__](https://python-course.eu/oop/object-oriented-programming.php) 
+- [Object Oriented Programming *__By Bernd Klein.__*](https://python-course.eu/oop/object-oriented-programming.php) 
 
 - [¿Cómo usar CLASES en PYTHON?](https://www.youtube.com/watch?v=9x7RK6mb1uA)
-- [Python Classes and Objects __by socratica__](https://www.youtube.com/watch?v=apACNr7DC_s)
+- [Python Classes and Objects *__by socratica__*](https://www.youtube.com/watch?v=apACNr7DC_s)
 	
 ### Learning Objectives 🎯
 - Why Python programming is awesome
