@@ -1,7 +1,7 @@
 <h1 align="center">Python 🐍 - Classes and Objects</h1>
 
 ### Recommended Links 🔗
-- [https://www.youtube.com/watch?v=-DP1i2ZU9gk](8. Object Oriented Programming8. Object Oriented Programming - MIT) __by Dr. Bell__
+- (https://www.youtube.com/watch?v=-DP1i2ZU9gk)[8. Object Oriented Programming8. Object Oriented Programming - MIT] __by Dr. Bell__
 
 - [https://python-course.eu/oop/object-oriented-programming.php](Object Oriented Programming __By Bernd Klein.__)
 - 
