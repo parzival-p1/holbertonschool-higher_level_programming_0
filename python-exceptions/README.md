@@ -47,7 +47,7 @@ __2. Print and count integers__
 	- You are not allowed to import any module
 	- You are not allowed to use ``len()``
 
-3. Integers division with debug
+__3. Integers division with debug__
 - Write a function that divides 2 integers and prints the result.
 	- Prototype: ``def safe_print_division(a, b):``
 	- You can assume that ``a`` and ``b`` are integers
